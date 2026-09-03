@@ -137,3 +137,18 @@ body {
         font-size: 17px;
     }
 }
+
+/* FOOTER */
+
+footer {
+    background-color: #65784f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 0;
+}
+
+footer p {
+    margin: 5px 0;
+    font-size: 16px;
+}
